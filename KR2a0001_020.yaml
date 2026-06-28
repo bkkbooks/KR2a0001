@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR2a0001/tls/v1/juan/20
+seq: 20
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天乃雨
+  hash: sha256:f06c12f263af7cd4032401cc2464e926846de69c2a75b4808c807a0a8ab7b376
+metadata:
+  title: 史記
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR2a0001.xml
+hash: sha256:5808394ba7595474cc2f0bc2553204b1a3eb80367809500885b5d8f481feded5

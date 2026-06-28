@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR2a0001/tls/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 紀五帝本紀黃帝者少典之子姓公孫名曰軒轅生而神靈弱而能言幼而徇齊長而敦敏成而聰明
+  hash: sha256:ec1af6d5fe4f02ef5c816e585bebd59e2dcc20c1c519575b0e59a5d2b8796927
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2a0001_tls_000-1a.1-h-h}
+  - {type: 'tls:head', offset: 1, content: '', id: KR2a0001_tls_000-1a.3-h}
+metadata:
+  title: 史記
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR2a0001.xml
+hash: sha256:49b328482087983250f6cb7371bd64440986be1ecd584acb357559e3b2220fea

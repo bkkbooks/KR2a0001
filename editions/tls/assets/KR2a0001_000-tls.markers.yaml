@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR2a0001/tls/v1/markers/0
+seq: 0
+markers:
+  front: []
+  body:
+  - {type: xml-element, offset: 1, content: '', id: KR2a0001_tls_000-bkkxmlele1, name: p, role: open}
+  - {type: xml-element, offset: 1, content: '', id: KR2a0001_tls_000-bkkxmlele2, name: p, role: close}
+  - {type: punctuation, offset: 1, content: 《, id: KR2a0001_tls_000-bkkpn1}
+  - {type: punctuation, offset: 5, content: 》, id: KR2a0001_tls_000-bkkpn2}
+  - {type: xml-element, offset: 5, content: '', id: KR2a0001_tls_000-bkkxmlele3, name: p, role: open}
+  - {type: 'tls:seg', offset: 5, content: '', id: KR2a0001_tls_000-1a.3}
+  - {type: punctuation, offset: 8, content: ，, id: KR2a0001_tls_000-bkkpn3}
+  - {type: 'tls:seg', offset: 8, content: '', id: KR2a0001_tls_000-1a.4}
+  - {type: punctuation, offset: 12, content: ，, id: KR2a0001_tls_000-bkkpn4}
+  - {type: 'tls:seg', offset: 12, content: '', id: KR2a0001_tls_000-1a.5}
+  - {type: punctuation, offset: 15, content: ，, id: KR2a0001_tls_000-bkkpn5}
+  - {type: 'tls:seg', offset: 15, content: '', id: KR2a0001_tls_000-1a.6}
+  - {type: punctuation, offset: 19, content: 。, id: KR2a0001_tls_000-bkkpn6}
+  - {type: xml-element, offset: 19, content: '', id: KR2a0001_tls_000-bkkxmlele4, name: p, role: close}
+  - {type: xml-element, offset: 19, content: '', id: KR2a0001_tls_000-bkkxmlele5, name: p, role: open}
+  - {type: 'tls:seg', offset: 19, content: '', id: KR2a0001_tls_000-1a.7}
+  - {type: punctuation, offset: 23, content: ，, id: KR2a0001_tls_000-bkkpn7}
+  - {type: 'tls:seg', offset: 23, content: '', id: KR2a0001_tls_000-1a.8}
+  - {type: punctuation, offset: 27, content: ，, id: KR2a0001_tls_000-bkkpn8}
+  - {type: 'tls:seg', offset: 27, content: '', id: KR2a0001_tls_000-1a.9}
+  - {type: punctuation, offset: 31, content: ，, id: KR2a0001_tls_000-bkkpn9}
+  - {type: 'tls:seg', offset: 31, content: '', id: KR2a0001_tls_000-1a.10}
+  - {type: punctuation, offset: 35, content: ，, id: KR2a0001_tls_000-bkkpn10}
+  - {type: 'tls:seg', offset: 35, content: '', id: KR2a0001_tls_000-1a.11}
+  - {type: punctuation, offset: 39, content: 。, id: KR2a0001_tls_000-bkkpn11}
+  - {type: xml-element, offset: 39, content: '', id: KR2a0001_tls_000-bkkxmlele6, name: p, role: close}
+  - {type: xml-element, offset: 39, content: '', id: KR2a0001_tls_000-bkkxmlele7, name: p, role: open}
+  back: []
+hash: sha256:84bdc32fc6314b99200e0d4ea88b1ac978715b4659a3e370e53308c4d357fc58

@@ -1,0 +1,12 @@
+canonical_identifier: bkk:krp/KR2a0001/tls/v1/markers/20
+seq: 20
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR2a0001_tls_020-731a.1}
+  - {type: punctuation, offset: 3, content: 。, id: KR2a0001_tls_020-bkkpn1}
+  - {type: punctuation, offset: 3, content: 」, id: KR2a0001_tls_020-bkkpn2}
+  - {type: xml-element, offset: 3, content: '', id: KR2a0001_tls_020-bkkxmlele1, name: p, role: close}
+  - {type: xml-element, offset: 3, content: '', id: KR2a0001_tls_020-bkkxmlele2, name: p, role: open}
+  back: []
+hash: sha256:590e3f274112162c0b19deb9c412b9b33e1af82e6770a6c68a42809b41388e3f
