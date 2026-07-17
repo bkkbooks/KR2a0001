@@ -191,10 +191,6 @@ assets:
   - {seq: 28, role: markers, filename: assets/KR2a0001_028-tls.markers.yaml, hash: 'sha256:410be074888c3cd7117829a7475ebf2b51a06c56a8aac36f30c2ce0a8551f1d1'}
   - {seq: 29, role: markers, filename: assets/KR2a0001_029-tls.markers.yaml, hash: 'sha256:549d796e5ee140e5f04f5bfa8fe42bad3b84001236dd6359e41511cbd6310a66'}
   - {seq: 30, role: markers, filename: assets/KR2a0001_030-tls.markers.yaml, hash: 'sha256:4c4613aec6fc488a480f1d11d41fdb853ec52b7919524268ace716e83172cff7'}
-  - {seq: 20, role: markers, filename: assets/KR2a0001_020-tls.markers.yaml, hash: 'sha256:590e3f274112162c0b19deb9c412b9b33e1af82e6770a6c68a42809b41388e3f'}
-  - {seq: 30, role: markers, filename: assets/KR2a0001_030-tls.markers.yaml, hash: 'sha256:4c4613aec6fc488a480f1d11d41fdb853ec52b7919524268ace716e83172cff7'}
-  - {seq: 20, role: markers, filename: assets/KR2a0001_020-tls.markers.yaml, hash: 'sha256:590e3f274112162c0b19deb9c412b9b33e1af82e6770a6c68a42809b41388e3f'}
-  - {seq: 30, role: markers, filename: assets/KR2a0001_030-tls.markers.yaml, hash: 'sha256:4c4613aec6fc488a480f1d11d41fdb853ec52b7919524268ace716e83172cff7'}
   - {seq: 31, role: markers, filename: assets/KR2a0001_031-tls.markers.yaml, hash: 'sha256:396310dad278b72093696aadd4d15fe5443185403dd1adfc5877d7552d808bc0'}
   - {seq: 32, role: markers, filename: assets/KR2a0001_032-tls.markers.yaml, hash: 'sha256:86f87ac6b74ac6030f9bdb8d1f761b20a6c4ae9a9639d97bea4f4d9e1c302c5c'}
   - {seq: 33, role: markers, filename: assets/KR2a0001_033-tls.markers.yaml, hash: 'sha256:59f8dbdd77ef34ed204ddb1d72bc0adb43b92fe0be032414bb1be3b9031c1490'}
@@ -237,7 +233,7 @@ assets:
   - {seq: 70, role: markers, filename: assets/KR2a0001_070-tls.markers.yaml, hash: 'sha256:8b0fd4a9290b218e2006dfef1a0d7afe45a823469362636b0da6005958761ed7'}
   - {seq: 71, role: markers, filename: assets/KR2a0001_071-tls.markers.yaml, hash: 'sha256:92bfb25f9d99751fb78a4498a72a55ee062e53d0c14851400782059414978c67'}
   - {seq: 72, role: markers, filename: assets/KR2a0001_072-tls.markers.yaml, hash: 'sha256:c15e574842ae0eca16952c91eabb2e346532bc524deab69bad2effec2c357a3f'}
-  - {seq: 73, role: markers, filename: assets/KR2a0001_073-tls.markers.yaml, hash: 'sha256:aa91318e1896378e1b55060cdcce9a5c1b0b7db99f07c8a3479e8280aa178156'}
+  - {seq: 73, role: markers, filename: assets/KR2a0001_073-tls.markers.yaml, hash: 'sha256:ad2bfdd34c56e30939ef1b5be3e507a3d67997bde7de70e4011ec811dc79c270'}
   - {seq: 74, role: markers, filename: assets/KR2a0001_074-tls.markers.yaml, hash: 'sha256:fc111636c9b600f1f119035a883de5682a145888d24488c73cb76f889802bc17'}
   - {seq: 75, role: markers, filename: assets/KR2a0001_075-tls.markers.yaml, hash: 'sha256:0f36c354225e8fb579523d44b7cfe7b85e33aa2576f47b7f3c0edbe630d7da03'}
   - {seq: 76, role: markers, filename: assets/KR2a0001_076-tls.markers.yaml, hash: 'sha256:35bf224a8d47e9e5f73c1818b6dce329881f7c75b8dbf39ea6fe682e9b34b3a1'}
@@ -1876,4 +1872,4 @@ table_of_contents:
   label: 太史公自序第七十
   type: section
   level: 1
-hash: sha256:d3f0f45f3fd93de53cca42b9f877bd16859aea6931496c48a2d6ea713bc37f75
+hash: sha256:5ba49e94ec6053bcdea5f744f0d8e6221af73a137aea8747720705ffb5985e8e
