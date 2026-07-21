@@ -158,7 +158,7 @@ assets:
   - {seq: 127, filename: KR2a0001_127-tls.yaml, hash: 'sha256:02a272436f84bd60909699b7098ab53d8aa843207b7c791e05b660acb339264d'}
   - {seq: 128, filename: KR2a0001_128-tls.yaml, hash: 'sha256:5f036098e954b51d7e4aad2fd13f88ed39e3985ad54a0e502b3ea3cb0de62f4d'}
   - {seq: 129, filename: KR2a0001_129-tls.yaml, hash: 'sha256:d3a785fd24c71312ca4b24379d047da1e147915036ff471f20b36259c7cf5911'}
-  - {seq: 130, filename: KR2a0001_130-tls.yaml, hash: 'sha256:4d965f3c9072de075dd95f1a9db0c18e96c9bf8f33b45e8cffab3f57eead9ed0'}
+  - {seq: 130, filename: KR2a0001_130-tls.yaml, hash: 'sha256:1369f84834ba5ba0060ded36f18474eab297ec6a00f7987a3dd588dd4370b7dc'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR2a0001_000-tls.markers.yaml, hash: 'sha256:84bdc32fc6314b99200e0d4ea88b1ac978715b4659a3e370e53308c4d357fc58'}
   - {seq: 1, role: markers, filename: assets/KR2a0001_001-tls.markers.yaml, hash: 'sha256:320f1f1535f7f77954127dfcf6fe32a50012c1d8f28f8399f1364754b13a39dd'}
@@ -290,7 +290,7 @@ assets:
   - {seq: 127, role: markers, filename: assets/KR2a0001_127-tls.markers.yaml, hash: 'sha256:c2b0d9664fb5c7969864b824f22e7cd09d08d179afdc296edf499648168fcb5c'}
   - {seq: 128, role: markers, filename: assets/KR2a0001_128-tls.markers.yaml, hash: 'sha256:0f7daa6c87bf0b4b1a7101e5964a8d17e04366a5b06e4a7bd33903e2788361fe'}
   - {seq: 129, role: markers, filename: assets/KR2a0001_129-tls.markers.yaml, hash: 'sha256:cfcd5d49ed9059451f2ef4e71b0c34fd8f11bca6544398b4406ce9c21bee7f70'}
-  - {seq: 130, role: markers, filename: assets/KR2a0001_130-tls.markers.yaml, hash: 'sha256:eec1fd46b6ea490b344f9097b2aecfeff3fe23fc8a60c536ab52ec0a2c77933c'}
+  - {seq: 130, role: markers, filename: assets/KR2a0001_130-tls.markers.yaml, hash: 'sha256:e67de791b318b90fe8896f77b57e80a1165ee1250b0296893b92115b572d900e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1866,10 +1866,10 @@ table_of_contents:
     seq: 130
     marker_id: KR2a0001_tls_130-1a.1-h
     span:
-    - front
+    - body
     - 0
     - 7802
   label: 太史公自序第七十
   type: section
   level: 1
-hash: sha256:5ba49e94ec6053bcdea5f744f0d8e6221af73a137aea8747720705ffb5985e8e
+hash: sha256:2b77ee9da255574b336a44eb2da9b96c3bebc16812189aa936e69c3544dac276
